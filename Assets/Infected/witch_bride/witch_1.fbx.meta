@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f2340fda94223f644b8240657e842075
+guid: 6e980974e726fda4fbba2605e3e0ed68
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -28,22 +28,22 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: witch
-    second: {fileID: 2800000, guid: 35e99f14ef724bd4281a1e3ad15e25b2, type: 3}
+    second: {fileID: 2800000, guid: 59f25325921526548ade66e462ef31a0, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: witch_bride_dress
-    second: {fileID: 2800000, guid: 26c177dfbadffbd45998e06068ff53d5, type: 3}
+    second: {fileID: 2800000, guid: ca48a8a9ecebc554e9a53af4acd07905, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: witch_bride_veil
-    second: {fileID: 2800000, guid: 95c56391fcf33e14d96b582f147f5712, type: 3}
+    second: {fileID: 2800000, guid: eb79b9a56ae3b7d478e3dbe4f41038d9, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: witch_hair
-    second: {fileID: 2800000, guid: 4771ddfe3ce04e04c97cb9e17394cfe6, type: 3}
+    second: {fileID: 2800000, guid: c72f6815c6f2e4c4ab8b9f7c2f1ad2c3, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
