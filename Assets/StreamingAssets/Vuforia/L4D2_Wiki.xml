@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="rochelle" size="1.000000 1.165179" />
+    <ImageTarget name="nick" size="1.000000 1.165179" />
+    <ImageTarget name="ellis" size="1.000000 1.165179" />
+    <ImageTarget name="coach" size="1.000000 1.165179" />
+    <ImageTarget name="zoey" size="1.000000 1.165179" />
+    <ImageTarget name="louis" size="1.000000 1.165179" />
+    <ImageTarget name="francis" size="1.000000 1.165179" />
+    <ImageTarget name="bill" size="1.000000 1.165179" />
+    <ImageTarget name="witch_1" size="1.000000 1.165179" />
+    <ImageTarget name="tank_1" size="1.000000 1.165179" />
+    <ImageTarget name="witch" size="1.000000 1.165179" />
+    <ImageTarget name="tank" size="1.000000 1.165179" />
+    <ImageTarget name="spitter" size="1.000000 1.165179" />
+    <ImageTarget name="smoker" size="1.000000 1.165179" />
+    <ImageTarget name="jockey" size="1.000000 1.165179" />
+    <ImageTarget name="hunter" size="1.000000 1.165179" />
+    <ImageTarget name="charger" size="1.000000 1.165179" />
+    <ImageTarget name="boomer" size="1.000000 1.165179" />
+  </Tracking>
+</QCARConfig>
