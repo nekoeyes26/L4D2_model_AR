@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Ui.unity
+    guid: 091bc3da956a7fd49827d4c83caf675f
+  - enabled: 1
     path: Assets/Scenes/AR_Scene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Ui_tentang.unity
+    guid: 11f6e64d0de8edd498e2c2118d7ddf69
+  - enabled: 1
+    path: Assets/Scenes/Ui_credit.unity
+    guid: b0ac3b8110b16194794c5de1d4784ed0
   m_configObjects: {}
